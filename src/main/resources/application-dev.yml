@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: desafio-tunts
+  output:
+    ansi:
+      enabled: ALWAYS
+
+google:
+  spreadsheet:
+    id: 1cBr0GEd-bX2zuF0n7MyvFRkkaYzOfeMf2DmoPviCf-Q
+    applicationName: engenharia_de_software
+    filePath: /client_secret_3.json
+    directoryPath: tokens
